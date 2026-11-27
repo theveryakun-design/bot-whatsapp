@@ -1,49 +1,72 @@
-# Project Lilith
-# Privacy Policy – Project Lilith
+# Privacy Policy — PinFinder WhatsApp Bot
 
-**Last updated: November 27, 2026**
+**Last updated:** November 27, 2026
 
 ## 1. Introduction
 
-This Privacy Policy explains how Project Lilith handles user information when using our bot and its features, including Pinterest API integration.
+PinFinder WhatsApp Bot (“the Bot”, “we”, “our”, or “us”) is a WhatsApp-based tool that allows users to search for Pinterest content using text keywords.
 
-## 2. Information We Collect
+This Privacy Policy explains what information may be processed when you use the Bot.
 
-Our bot may process:
-- WhatsApp messages sent to the bot.
-- Images or media submitted for sticker creation.
-- Pinterest links or search queries submitted by users.
-- Basic information required to operate the bot.
+## 2. Information We Process
 
-We do not intentionally collect sensitive personal information.
+When you send a message to the Bot, we may process:
 
-## 3. How We Use Information
+- Your WhatsApp message and search keywords.
+- WhatsApp message information needed to reply to your request.
+- Technical error information needed to maintain and troubleshoot the Bot.
 
-Information is used only to:
-- Respond to user commands.
-- Create stickers from submitted images.
-- Process Pinterest-related requests.
-- Maintain and improve bot functionality.
+The Bot uses Pinterest API services to retrieve search results when available.
 
-## 4. Data Storage
+## 3. Pinterest API
 
-Messages and media may be temporarily processed to provide bot services. We do not sell or share users' personal information for advertising purposes.
+PinFinder uses Pinterest API services to provide search functionality.
 
-## 5. Third-Party Services
+Search requests are made using the keywords submitted by the user. Pinterest content and API responses are handled in accordance with Pinterest's applicable developer terms and policies.
 
-Our bot may use third-party services, including WhatsApp and Pinterest APIs. Their use is subject to their respective privacy policies and terms.
+PinFinder is an independent project and is not affiliated with, endorsed by, or sponsored by Pinterest.
 
-## 6. User Responsibility
+## 4. Data Storage and Retention
 
-Users are responsible for ensuring that the content they submit or request is lawful and does not violate the rights of others.
+Search requests are processed to provide the requested response.
 
-## 7. Changes to This Policy
+We do not intentionally create a permanent database of users' Pinterest search results. Technical logs may be generated for troubleshooting and security purposes.
 
-This Privacy Policy may be updated when necessary. Any changes will be published on this page.
+[Describe any actual message, log, or search-data retention here.]
 
-## 8. Contact
+## 5. Sharing of Information
 
-For questions about this Privacy Policy, please contact the bot owner through the contact information provided by the bot administrator.
+We do not sell users' personal information.
 
-Thank you for using Project Lilith
-.
+Information may be processed by the services required to operate the Bot, including WhatsApp messaging services and Pinterest API services.
+
+We do not use Pinterest API data for advertising, resale, or unrelated purposes.
+
+## 6. Security
+
+We take reasonable measures to protect the Bot's configuration and API credentials. API credentials are stored in server-side environment configuration and are not intended to be shared with users.
+
+## 7. Third-Party Services
+
+The Bot relies on third-party services, including:
+
+- WhatsApp messaging infrastructure
+- Pinterest API
+
+Their services are governed by their own terms and privacy policies.
+
+## 8. Children's Privacy
+
+The Bot is not intended for children under the age of 13.
+
+## 9. Changes to This Policy
+
+This Privacy Policy may be updated when the Bot's features or data practices change. The latest version will be published on this page.
+
+## 10. Contact
+
+For privacy questions or requests, contact:
+
+**Developer:** [Your name or project name]  
+**Email:** [Your contact email]  
+**Website:** [Your website URL]
