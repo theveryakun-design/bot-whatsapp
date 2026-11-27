@@ -1,11 +1,11 @@
-# bot-whatsapp
-# Privacy Policy – Bot WhatsApp
+# Project Lilith
+# Privacy Policy – Project Lilith
 
-**Last updated: November 26, 2026**
+**Last updated: November 27, 2026**
 
 ## 1. Introduction
 
-This Privacy Policy explains how Bot WhatsApp handles user information when using our bot and its features, including Pinterest API integration.
+This Privacy Policy explains how Project Lilith handles user information when using our bot and its features, including Pinterest API integration.
 
 ## 2. Information We Collect
 
@@ -45,4 +45,5 @@ This Privacy Policy may be updated when necessary. Any changes will be published
 
 For questions about this Privacy Policy, please contact the bot owner through the contact information provided by the bot administrator.
 
-Thank you for using Bot WhatsApp.
+Thank you for using Project Lilith
+.
