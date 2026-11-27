@@ -32,7 +32,7 @@ Search requests are processed to provide the requested response.
 
 We do not intentionally create a permanent database of users' Pinterest search results. Technical logs may be generated for troubleshooting and security purposes.
 
-[Describe any actual message, log, or search-data retention here.]
+The Bot only store logs for development and not misused for other purpose.
 
 ## 5. Sharing of Information
 
@@ -67,6 +67,6 @@ This Privacy Policy may be updated when the Bot's features or data practices cha
 
 For privacy questions or requests, contact:
 
-**Developer:** [Your name or project name]  
-**Email:** [Your contact email]  
-**Website:** [Your website URL]
+**Developer:** Project Finder  
+**Email:** theveryakun@gmail.com  
+
